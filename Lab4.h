@@ -1,0 +1,13 @@
+//
+// Created by acer_ on 07.05.2026.
+//
+
+#ifndef LAB4OOP26_CHEREPKOOLENA_LAB4_H
+#define LAB4OOP26_CHEREPKOOLENA_LAB4_H
+
+
+class Lab4 {
+};
+
+
+#endif //LAB4OOP26_CHEREPKOOLENA_LAB4_H
